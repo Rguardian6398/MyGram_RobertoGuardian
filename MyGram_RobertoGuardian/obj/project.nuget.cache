@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KPYG/9hw8sF/Frl5EMoUAwJvbFd9VXZ3ZqwujzshFBoTXl5KuANN/i9QL1wUiTjSQGdkzP55ONatajH+bZXZ1A==",
+  "dgSpecHash": "s15bdTh4z8Twj2PSLrKG4wbFYMkCIqGnQkd5RCE5Ut3wBaLd0Q8Cwd7i+7w/zJUvTnFcEgkrIaFtARlcRc15ow==",
   "success": true,
-  "projectFilePath": "/Users/robertoguardian154gmail.com/Desktop/CS 132 Shopping Cart/Module1_RobertoGuardian/Module1_RobertoGuardian/Module1_RobertoGuardian.csproj",
+  "projectFilePath": "/Users/robertoguardian154gmail.com/Desktop/MyGram_Roberto Guardian/MyGram_RobertoGuardian/Module1_RobertoGuardian.csproj",
   "expectedPackageFiles": [
     "/Users/robertoguardian154gmail.com/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/3.1.13/microsoft.aspnetcore.mvc.razor.extensions.3.1.13.nupkg.sha512",
     "/Users/robertoguardian154gmail.com/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/3.1.13/microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.13.nupkg.sha512",
