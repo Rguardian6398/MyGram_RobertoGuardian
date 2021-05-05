@@ -708,3 +708,4 @@
 /Users/robertoguardian154gmail.com/Desktop/MyGram_Roberto Guardian/MyGram_RobertoGuardian/obj/Debug/netcoreapp3.1/Module1_RobertoGuardian.dll
 /Users/robertoguardian154gmail.com/Desktop/MyGram_Roberto Guardian/MyGram_RobertoGuardian/obj/Debug/netcoreapp3.1/Module1_RobertoGuardian.pdb
 /Users/robertoguardian154gmail.com/Desktop/MyGram_Roberto Guardian/MyGram_RobertoGuardian/obj/Debug/netcoreapp3.1/Module1_RobertoGuardian.genruntimeconfig.cache
+/Users/robertoguardian154gmail.com/Desktop/MyGram_Roberto Guardian/MyGram_RobertoGuardian/obj/Debug/netcoreapp3.1/Razor/Views/Users/LogIn.cshtml.g.cs

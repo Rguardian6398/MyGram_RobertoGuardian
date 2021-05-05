@@ -49,6 +49,11 @@ namespace Module1_RobertoGuardian
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
+                    name: "LogAUser",
+                    pattern: "Users/LogAUser",
+                    defaults: new { controllers = "Users", action = "LogAUser" });
+
+                endpoints.MapControllerRoute(
                     name: "GetTheImages",
                     pattern: "Images/GetAllImages",
                     defaults: new { controllers = "Images", action = "GetAllImages"});

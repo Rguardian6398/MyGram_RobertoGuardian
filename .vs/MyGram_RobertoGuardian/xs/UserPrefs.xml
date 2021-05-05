@@ -1,10 +1,28 @@
 ﻿<Properties StartupConfiguration="{A303D54A-49B7-4399-992D-57B9D87F2382}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGram_RobertoGuardian/Startup.cs">
+    <Files>
+      <File FileName="MyGram_RobertoGuardian/Startup.cs" Line="54" Column="78" />
+      <File FileName="MyGram_RobertoGuardian/Controllers/UsersController.cs" Line="28" Column="1" />
+      <File FileName="MyGram_RobertoGuardian/Views/Shared/_Layout.cshtml" Line="22" Column="99" />
+      <File FileName="MyGram_RobertoGuardian/Views/Users/LogIn.cshtml" Line="17" Column="35" />
+      <File FileName="MyGram_RobertoGuardian/Models/User.cs" Line="11" Column="43" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MyGram_RobertoGuardian" expanded="True">
-            <Node name="Module1_RobertoGuardian" expanded="True" selected="True" />
+            <Node name="Module1_RobertoGuardian" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Images" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Users" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
